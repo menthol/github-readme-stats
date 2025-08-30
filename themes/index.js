@@ -466,7 +466,7 @@ export const themes = {
     title_color: "FFB900",
     icon_color: "FFB900",
     text_color: "FFFFFF",
-    bg_color: "0,193CB8,0f172b",
+    bg_color: "90,193CB8,0f172b",
   },
 };
 
