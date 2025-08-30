@@ -462,6 +462,12 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  pardonmyweb: {
+    title_color: "FFB900",
+    icon_color: "FFB900",
+    text_color: "FFFFFF",
+    bg_color: "0f172b",
+  },
 };
 
 export default themes;
